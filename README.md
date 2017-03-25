@@ -14,5 +14,6 @@ Getting my feet muddy with go
 ## Links
 
 Tour of go: https://tour.golang.org
+
 Style guide:
 https://golang.org/doc/code.html
